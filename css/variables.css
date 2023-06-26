@@ -1,0 +1,12 @@
+:root{
+    --background--color-terca: rgba(0, 0, 0, .9);
+    --background--color: #1d1d1d;
+    --backgroun--color-secondary: rgb(240, 241, 243);
+    --background--color-buttonPrimary: orange;
+    --background--color-buttonSeconday: orangered;
+    --background--color-iconTrash: rgb(207, 12, 12);
+    --background--color-iconEdit: rgb(26, 26, 196);
+    --color--text-primary: #fefefe;
+    --color--text-secondary: #1d1d1d;
+    --fontFamily-primary: poppins, sans-serif, 'Times New Roman', Times, serif;
+}
