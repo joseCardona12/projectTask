@@ -197,6 +197,10 @@ footer{
         margin-right: 3rem;
     
     }
+
+    footer{
+       margin-top: -20px;
+    }
     
 }
 
